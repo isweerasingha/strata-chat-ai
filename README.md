@@ -1,7 +1,5 @@
 # AI Assistant Chat App ✨
 
-A brief and catchy tagline for your project. For example: *An intelligent chat application powered by Next.js and the OpenAI Assistant API.*
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-Assistant_API-412991?logo=openai)](https://platform.openai.com/docs/assistants/overview)
